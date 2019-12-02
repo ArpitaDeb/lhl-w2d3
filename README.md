@@ -120,15 +120,13 @@ __Request / Response cycle:__
   HTTP(S).
 
 - Included in every response from an HTTP(S) server is a
-  _status code._
+  _status code._ Some common status codes are:
 
-Some common status codes are:
-
-Status code | Meaning
----------------------
- 200        | Everything's alright
- 404        | Resource not found
- 500        | Internal server error
+    Status code | Meaning
+    ------------|--------
+     200        | Everything's alright
+     404        | Resource not found
+     500        | Internal server error
 
 ## References and further readings
 
