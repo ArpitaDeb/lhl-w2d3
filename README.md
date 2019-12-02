@@ -94,7 +94,7 @@ __URL (Uniform Resource Locator):__
 - Specifies the address of a particular resource, and is
   made up of several parts:
 
-  `https://www.youtube.com:443/watch?v=SMxx9XEF6m0'
+  `https://www.youtube.com:443/watch?v=SMxx9XEF6m0`
 
   `https://` – the protocol (in this case not HTTP, but
   HTTPS, which is like HTTPS only encrypted)
@@ -122,11 +122,11 @@ __Request / Response cycle:__
 - Included in every response from an HTTP(S) server is a
   _status code._ Some common status codes are:
 
-Status code | Meaning
----------------------
- 200        | Everything's alright
- 404        | Resource not found
- 500        | Internal server error
+    Status code | Meaning
+    ---------------------
+     200        | Everything's alright
+     404        | Resource not found
+     500        | Internal server error
 
 ## References and further readings
 
