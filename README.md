@@ -130,5 +130,12 @@ __Request / Response cycle:__
 
 ## References and further readings
 
-- [What is a URL? by Steve Barley on YouTube](https://www.youtube.com/watch?v=SMxx9XEF6m0)
+- [What is a URL? by Steve Barley on
+  YouTube](https://www.youtube.com/watch?v=SMxx9XEF6m0)
+
+- [Nima Boscarino's W2D3
+  lecture](https://github.com/NimaBoscarino/networking-tcp-notes)
+
+- [Dominic Tremblay's W2D3
+  lecture](https://github.com/DominicTremblay/w2d3-lecture-aug19)
 
