@@ -9,7 +9,7 @@ server and client in Node.
 
 If time allows, we'll also briefly discuss HTTP (HyperText Transfer Protocol).
 
-## Learning goalso
+## Learning goals
 
 ### For students
 
