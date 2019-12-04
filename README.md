@@ -4,11 +4,23 @@
 
 __Asynchronous JS:__
 
+- not synchronous JS
+
+    - JS executes one task at a time
+    - synchronous JS exectues in order
+
+- setTimeout – this code runs later, after a specific
+  amount of time has passed
+- `readFile`, and other I/O operations
+
 - Async code is code that does not execute immediately,
   but at some specified later time or when a particular
   event is triggered.
 
 __Events in JS:__
+
+- could be: an input from a user, (lots of events in the
+  browser), stdin `data`
 
 - Events are actions or occurrences that happen in the
   system you are programming, which the system tells you
@@ -107,7 +119,9 @@ __URL (Uniform Resource Locator):__
   `/watch` – the path to the resource.
 
   `?v=SMzz9XEF6m0` – query parameters (we'll learn more
-  about these next week).
+  about these next week). If there are more query
+  parameters, they are separated by a `&`, for example
+  `?key1=value1&key2=value2`
 
 __Request / Response cycle:__
 

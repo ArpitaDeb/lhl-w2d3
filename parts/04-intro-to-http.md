@@ -29,7 +29,9 @@ __URL (Uniform Resource Locator):__
   `/watch` – the path to the resource.
 
   `?v=SMzz9XEF6m0` – query parameters (we'll learn more
-  about these next week).
+  about these next week). If there are more query
+  parameters, they are separated by a `&`, for example
+  `?key1=value1&key2=value2`
 
 __Request / Response cycle:__
 

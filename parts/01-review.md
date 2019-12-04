@@ -3,11 +3,23 @@
 
 __Asynchronous JS:__
 
+- not synchronous JS
+
+    - JS executes one task at a time
+    - synchronous JS exectues in order
+
+- setTimeout – this code runs later, after a specific
+  amount of time has passed
+- `readFile`, and other I/O operations
+
 - Async code is code that does not execute immediately,
   but at some specified later time or when a particular
   event is triggered.
 
 __Events in JS:__
+
+- could be: an input from a user, (lots of events in the
+  browser), stdin `data`
 
 - Events are actions or occurrences that happen in the
   system you are programming, which the system tells you
