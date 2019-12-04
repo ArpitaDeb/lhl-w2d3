@@ -87,7 +87,8 @@ the message to all other connected clients.
 
 - Server needs to keep a list of all connected clients
 
-[See the working example in /code](#)
+[See the working example in
+/code](https://github.com/hora/lhl-w2d3/tree/2019-dec-4/code)
 
 ## A quick introduction to HTTP
 
