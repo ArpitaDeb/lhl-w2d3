@@ -1,7 +1,11 @@
 
 ## Review
 
-__Asynchronous JS:__
+### Asynchronous JS
+
+- there's some operations that run more-or-less linear, others have to wait
+  (those ones that wait are async)
+    - for ex: setTimeout (based on timing, has to wait before it runs)
 
 - not synchronous JS
 
@@ -16,7 +20,7 @@ __Asynchronous JS:__
   but at some specified later time or when a particular
   event is triggered.
 
-__Events in JS:__
+### Events in JS
 
 - could be: an input from a user, (lots of events in the
   browser), stdin `data`
@@ -32,7 +36,9 @@ __Events in JS:__
 - An __Event Handler__ is a callback function that will be
   called when an event is triggered.
 
-__The event loop:__
+    - `.on('someEvent', function() { ... })`
+
+### The event loop
 
 - [Philip Roberts: What the heck is the event loop
   anyway?](https://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html)

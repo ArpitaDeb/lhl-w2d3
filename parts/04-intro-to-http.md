@@ -11,6 +11,7 @@ __HTTP (HyperText Transfer Protocol):__
 - HTTPS (the 'S' stands for 'Secure') is like HTTP, only
   encrypted.
 
+
 __URL (Uniform Resource Locator):__
 
 - Specifies the address of a particular resource, and is
@@ -32,6 +33,7 @@ __URL (Uniform Resource Locator):__
   about these next week). If there are more query
   parameters, they are separated by a `&`, for example
   `?key1=value1&key2=value2`
+
 
 __Request / Response cycle:__
 
